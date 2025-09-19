@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aniruddh Sharma
 
 **B.Tech Undergraduate | Information Technology | University Institute of Technology, Burdwan**  
-**Microsoft Learning Student Ambassador | IoT & AI Enthusiast | Coding Junction Coordinator**
+**Embedded Systems | IoT & AI Enthusiast | Coding Junction Coordinator**
 
 ---
 
@@ -17,7 +17,7 @@ I'm passionate about building intelligent solutions that bridge hardware and sof
 
 ## 🌟 Technical Skills
 
-- **Programming:** Python, C++, JavaScript
+- **Programming:** Python, C++, JAVA, JavaScript
 - **ML & AI:** pandas, NumPy, PyTorch, Scikit-learn, Deep Learning, NLP, Model Fine-Tuning
 - **Embedded & IoT:** Arduino, Raspberry Pi (3/4/Zero/Pico), ESP8266, ESP32, Jetson Nano, Banana Pi, Orange Pi
 - **Tools:** Arduino IDE, Raspberry Pi OS, MATLAB, Git/GitHub, Jupyter Notebook, VS Code
